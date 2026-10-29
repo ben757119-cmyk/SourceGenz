@@ -1,0 +1,25 @@
+log-filtered-messages: true
+blocked-message: '<aqua>Minehut<dark_gray> | <gray>Your content has been blocked for
+  the following: "<red><u><blocked></u><gray>"'
+filtered-commands:
+- /nick
+- /nickname
+- /w
+- /say
+- /me
+- /msg
+- /tell
+- /teammsg
+- /tm
+- /r
+- /reply
+- /m
+- /t
+- /pm
+- /whisper
+- /etell
+- /broadcast
+- /bc
+- /rename
+- /itemname
+config-version: 2
